@@ -1,0 +1,36 @@
+=== RESULTADOS DEL DETECTOR DE PLAGIO ===
+
+Fecha y hora: 2025-04-08 09:47:30
+Documentos analizados: 100
+Tamaño de n-gramas: 3
+
+Tabla de Similitud entre Documentos
+=================================
+
+| Documento A      | Documento B      | Similitud (%) |
+|------------------|------------------|---------------|
+| doc_69.txt        | doc_89.txt        |         26.56 |
+| doc_70.txt        | doc_89.txt        |         24.90 |
+| doc_66.txt        | doc_78.txt        |         24.33 |
+| doc_38.txt        | doc_78.txt        |         23.75 |
+| doc_17.txt        | doc_89.txt        |         23.68 |
+| doc_69.txt        | doc_70.txt        |         23.48 |
+| doc_78.txt        | doc_93.txt        |         22.89 |
+| doc_23.txt        | doc_46.txt        |         22.76 |
+| doc_36.txt        | doc_79.txt        |         22.70 |
+| doc_38.txt        | doc_91.txt        |         22.51 |
+| doc_78.txt        | doc_92.txt        |         22.48 |
+| doc_5.txt         | doc_74.txt        |         22.45 |
+| doc_6.txt         | doc_70.txt        |         22.43 |
+| doc_32.txt        | doc_38.txt        |         22.35 |
+| doc_44.txt        | doc_70.txt        |         22.35 |
+| doc_46.txt        | doc_91.txt        |         22.30 |
+| doc_26.txt        | doc_78.txt        |         22.18 |
+| doc_32.txt        | doc_46.txt        |         22.14 |
+| doc_46.txt        | doc_78.txt        |         22.00 |
+| doc_37.txt        | doc_38.txt        |         21.89 |
+
+
+Grafo de Similitud (umbral: 0.3)
+================================
+

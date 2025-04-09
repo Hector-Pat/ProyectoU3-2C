@@ -1,2 +1,5 @@
-# ProyectoU3-2C
-Detector de plagio para trabajos estudiantiles
+# Detector de Plagio para Trabajos Estudiantiles
+
+## Descripción
+
+Sistema de detección de plagio que identifica similitudes entre trabajos estudiantiles.
