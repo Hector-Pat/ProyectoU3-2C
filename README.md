@@ -30,8 +30,8 @@ El detector de plagio funciona mediante los siguientes pasos:
 
 
 ```shellscript
-git clone https://github.com/tu-usuario/detector-plagio.git
-cd detector-plagio
+https://github.com/Hector-Pat/ProyectoU3-2C.git
+cd ProyectoU3-2C.git
 ```
 
 2. Instalar dependencias (si es necesario):
